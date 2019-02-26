@@ -10,6 +10,10 @@ int my_strlen(char *s)
    return (p - s);
 }
 
+
+
+
+
 int main(void)
 {
    int i;
