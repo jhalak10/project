@@ -10,6 +10,13 @@ int my_strlen(char *s)
    return (p - s);
 }
 
+<<<<<<< HEAD
+=======
+//
+
+
+
+>>>>>>> 3cadb02ca3baacbd19ddc96c45482ec7420413af
 int main(void)
 {
    int i;
